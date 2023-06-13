@@ -280,7 +280,7 @@ INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `re
 (3, 'Rosina Mueller', 'nbradtke@example.com', '2023-01-11 22:40:28', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'lsm8zikXAw', '2023-01-11 22:40:28', '2023-01-11 22:40:28', 'bart31'),
 (4, 'Bonita Cummerata', 'marshall71@example.net', '2023-01-11 22:40:28', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', '30UU1CDqp6', '2023-01-11 22:40:28', '2023-01-11 22:40:28', 'jerel.bergstrom'),
 (5, 'Gregory Krajcik', 'rippin.vivian@example.com', '2023-01-11 22:40:28', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'TIPcVW1qox', '2023-01-11 22:40:28', '2023-01-11 22:40:28', 'helen49'),
-(6, 'Mihajlo Cosovic', 'mc20190418@student.fon.bg.ac.rs', NULL, '$2y$10$dosSA1ZUSoK8Jumub5yrneqxXcp/H8C7KCpeWi/YgTAQbncGKaK4e', NULL, '2023-01-11 23:54:14', '2023-01-11 23:54:14', 'mihajlo');
+(6, 'Mina Janic', 'mj20180065@student.fon.bg.ac.rs', NULL, '$2y$10$dosSA1ZUSoK8Jumub5yrneqxXcp/H8C7KCpeWi/YgTAQbncGKaK4e', NULL, '2023-01-11 23:54:14', '2023-01-11 23:54:14', 'mina');
 
 --
 -- Indexes for dumped tables
